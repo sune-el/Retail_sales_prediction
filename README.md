@@ -5,7 +5,7 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Ros
 PROBLEM STATEMENT
 Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied. Two datasets are given: one with store data and the other with historical sales data of 1115 stores from January 2013 to July 2015. The main objective is to understand existing data and after identifying the key factors that will predict future sales, a predictive model will be built for making forecasts about future sales.
 
-#APPROACH
+# APPROACH
 
 
 Understanding the business requirements.
@@ -17,7 +17,7 @@ Engaging in feature engineering to prepare data for modeling.
 Modeling the data and comparing models to identify the most suitable one for forecasting.
 Drawing conclusions and providing recommendations to enhance sales.
 
-#Exploratory Data Analysis
+# Exploratory Data Analysis
 
 Monday Sales Peak:
 Mondays emerge as the highest sales day, possibly due to most Sundays being closed. This pattern suggests a strategic focus on Monday promotions or offerings.
@@ -34,7 +34,7 @@ Assortment B, exclusive to Store type B, stands out with higher sales and custom
 Mid-December Sales Peak:
 Observing a peak in weekly sales and customers in mid-December, it's plausible that customers stock up on drugs before holiday closures. This insight suggests targeted marketing or promotions during this period for increased sales.
 
-#Methodology
+# Methodology
 
 Data Exploration:
 Explore the dataset thoroughly, gaining valuable insights and a deeper understanding of its characteristics.
